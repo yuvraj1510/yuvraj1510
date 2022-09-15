@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm @yuvraj1510</h1>
-<h3 align="center">Insightful, result-driven, dynamic IT professional with 10+ years of work experience in Telecom Domain. Mostly worked on Product Development and Management using methodologies like DevOps and Microservices. Hands-on experience in leading all stages of product developments efforts, including requirements definition, design, development, testing and support. I am AWS Certified Solution Architect.</h3>
+<h1 align="center">Hi 👋, I'm @yuvraj1510, AWS Certified Solution Architect</h1>
+<h3 align="center">Insightful, result-driven, dynamic IT professional with 10+ years of work experience in Telecom Domain. Mostly worked on Product Development and Management using methodologies like DevOps and Microservices. Hands-on experience in leading all stages of product developments efforts, including requirements definition, design, development, testing and support.</h3>
+
+- 💬 Ask me about **Java, Spring, Spring Boot, REST, SOAP, Docker, Kubernetes, Nexus, Maven, Jenkins, ELK, Glowroot, Grafana, Prometheous, JMS, Camunda, Kafka, Solace, Cassandra, Oracle.**
 
 - 📫 How to reach me **yuvraj1510@gmail.com**
 
